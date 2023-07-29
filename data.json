@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Presale Contract",
+      "value": "0xF90BceE2dc685bd5429ff8f6888bF5b100F2A66c"
+    },
+    {
+      "id": 2,
+      "name": "Rate in BNB",
+      "value": "2000000000"
+    },
+    {
+      "id": 3,
+      "name": "Title",
+      "value": "🚀The MarsBucks Presale Odyssey!🌌"
+    },
+    {
+      "id": 4,
+      "name": "Description",
+      "value": "🚀 Embark on the Galactic Frontier with MarsBucks: The Cosmic Presale Extravaganza! 🚀Prepare to launch your financial journey to the stars as we unveil the most exciting and revolutionary token in the universe: MarsBucks! 🔥 This presale event will transport you to a realm where possibilities are as limitless as the cosmos itself🌌."
+    },
+    {
+      "id": 5,
+      "name": "Token Name",
+      "value": "MarsBucks"
+    },
+    {
+      "id": 6,
+      "name": "Token Contract",
+      "value": "0x46FD74a76D7b64Ad69d6392Dae19a4bcDeeC68Bb"
+    },
+    {
+      "id": 7,
+      "name": "Token Symbol",
+      "value": "$MRSB"
+    },
+    {
+      "id": 8,
+      "name": "Token Decimal",
+      "value": "18"
+    },
+    {
+      "id": 9,
+      "name": "Token Supply",
+      "value": "420000000000"
+    },
+    {
+      "id": 10,
+      "name": "Tokens For Presale",
+      "value": "200000000000"
+    },
+    {
+      "id": 11,
+      "name": "Presale Start Time",
+      "value": "2023.07.28 15:00 (UTC)"
+    },
+    {
+      "id": 12,
+      "name": "Presale End Time",
+      "value": "2023.08.21 15:00 (UTC)"
+    },
+    {
+      "id": 13,
+      "name": "Affiliate Commission %",
+      "value": "5"
+    },
+    {
+      "id": 14,
+      "name": "Owner Wallet",
+      "value": "0x9750613C8ee2fF973E78D55014f2Cb3265696013"
+    }
+    
+  ]
+  
